@@ -75,6 +75,7 @@ python remove_lines.py
 
 ## Example
 ### Input Image
-
+![alt text](https://github.com/Hooman-Bean/Line-remover/blob/main/input.jpg)
 
 ### Output Image
+![alt text](https://github.com/Hooman-Bean/Line-remover/blob/main/output.jpg)
