@@ -51,4 +51,4 @@ def remove_lines(input_path, output_path):
     result = cv2.inpaint(img, line_mask, inpaintRadius=3, flags=cv2.INPAINT_TELEA)
     cv2.imwrite(output_path, result)
 
-remove_lines("D:\Projects\data\input.jpg", "output.jpg")
+remove_lines("input.jpg", "output.jpg")
