@@ -79,3 +79,6 @@ python remove_lines.py
 
 ### Output Image
 ![alt text](https://github.com/Hooman-Bean/Line-remover/blob/main/output.jpg)
+
+
+## Video Explanation & Demo
